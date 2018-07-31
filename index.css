@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+.background {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+
+.title {
+    display: flex;
+    align-items: center;
+    font-size: 48px;
+}
+
+.rp {
+    font-size: 64px;
+}
+
+.content {
+    font-size: 156px;
+}
